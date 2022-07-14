@@ -4,12 +4,12 @@ A <a href="https://microsoft.github.io/jacdac-docs/">Jacdac</a> 3D-Magnetometer 
 ## Top View: 
 
 <p align="center">
-<img align="center" src="./Resources/Jacdac_3D-Magnetometer_Top_V1.0.png" width="50%" height="50%" alt="Jacdac-3D-Magnetometer Top"/>
+<img align="center" src="./Resources/Jacdac_3D-Magnetometer_Top_V1.1.png" width="50%" height="50%" alt="Jacdac-3D-Magnetometer Top"/>
 </p>
 
 
 ## Bottom View:
 
 <p align="center">
-<img align="center" src="./Resources/Jacdac_3D-Magnetometer_Bottom_V1.0.png" width="50%" height="50%" alt="Jacdac-3D-Magnetometer Bottom"/>
+<img align="center" src="./Resources/Jacdac_3D-Magnetometer_Bottom_V1.1.png" width="50%" height="50%" alt="Jacdac-3D-Magnetometer Bottom"/>
 </p>
