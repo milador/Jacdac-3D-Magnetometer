@@ -855,7 +855,7 @@ Nick Garner - TeleSense</description>
 </package3d>
 </packages3d>
 <symbols>
-<symbol name="STM32G030F8P6" urn="urn:adsk.eagle:symbol:36491898/1" library_version="135">
+<symbol name="STM32G030F8P6" urn="urn:adsk.eagle:symbol:36491898/2" library_version="141">
 <wire x1="5.08" y1="5.08" x2="60.96" y2="5.08" width="0.254" layer="94"/>
 <wire x1="60.96" y1="-27.94" x2="60.96" y2="5.08" width="0.254" layer="94"/>
 <wire x1="60.96" y1="-27.94" x2="5.08" y2="-27.94" width="0.254" layer="94"/>
@@ -875,7 +875,7 @@ Nick Garner - TeleSense</description>
 <pin name="PA5" x="66.04" y="-20.32" length="middle" rot="R180"/>
 <pin name="PA6" x="66.04" y="-17.78" length="middle" rot="R180"/>
 <pin name="PA7" x="66.04" y="-15.24" length="middle" rot="R180"/>
-<pin name="PA11[9]" x="66.04" y="-10.16" length="middle" direction="in" rot="R180"/>
+<pin name="PA11[9]" x="66.04" y="-10.16" length="middle" rot="R180"/>
 <pin name="PA12[10]" x="66.04" y="-7.62" length="middle" rot="R180"/>
 <pin name="PA13" x="66.04" y="-5.08" length="middle" rot="R180"/>
 <pin name="PA15/14" x="66.04" y="-2.54" length="middle" rot="R180"/>
@@ -1022,7 +1022,7 @@ I2C 3D Hall Effect</text>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="STM32G030F8P6" urn="urn:adsk.eagle:component:36491901/3" prefix="IC" uservalue="yes" library_version="138">
+<deviceset name="STM32G030F8P6" urn="urn:adsk.eagle:component:36491901/4" prefix="IC" uservalue="yes" library_version="141">
 <description>&lt;h3&gt;STM32G030F6P6 TSSOP-20&lt;/h3&gt;
 JLC724040</description>
 <gates>
@@ -11513,7 +11513,7 @@ between Jacdac connectors and mounting holes.</text>
 <vertex x="-3.4" y="-0.45"/>
 </polygon>
 </package>
-<package name="MILADOR_ICON_MAGNETOMETER" urn="urn:adsk.eagle:footprint:36505532/1" library_version="137">
+<package name="MILADOR_ICON_MAGNETOMETER" urn="urn:adsk.eagle:footprint:36505532/2" library_version="139">
 <rectangle x1="-0.10795" y1="-1.65735" x2="-0.09525" y2="-1.64465" layer="21"/>
 <rectangle x1="-0.08255" y1="-1.65735" x2="-0.06985" y2="-1.64465" layer="21"/>
 <rectangle x1="-0.05715" y1="-1.65735" x2="0.08255" y2="-1.64465" layer="21"/>
@@ -12229,74 +12229,74 @@ between Jacdac connectors and mounting holes.</text>
 <rectangle x1="-0.08255" y1="1.63195" x2="0.08255" y2="1.64465" layer="21"/>
 <rectangle x1="0.09525" y1="1.63195" x2="0.10795" y2="1.64465" layer="21"/>
 <rectangle x1="0.12065" y1="1.63195" x2="0.13335" y2="1.64465" layer="21"/>
-<rectangle x1="-0.05715" y1="1.77165" x2="0.04445" y2="1.78435" layer="21"/>
-<rectangle x1="-0.06985" y1="1.78435" x2="0.04445" y2="1.79705" layer="21"/>
-<rectangle x1="-0.06985" y1="1.79705" x2="0.04445" y2="1.80975" layer="21"/>
-<rectangle x1="-0.06985" y1="1.80975" x2="0.04445" y2="1.82245" layer="21"/>
-<rectangle x1="-0.06985" y1="1.82245" x2="0.04445" y2="1.83515" layer="21"/>
-<rectangle x1="-0.06985" y1="1.83515" x2="0.04445" y2="1.84785" layer="21"/>
-<rectangle x1="-0.06985" y1="1.84785" x2="0.04445" y2="1.86055" layer="21"/>
-<rectangle x1="-0.06985" y1="1.86055" x2="0.04445" y2="1.87325" layer="21"/>
-<rectangle x1="-0.06985" y1="1.87325" x2="0.04445" y2="1.88595" layer="21"/>
-<rectangle x1="-0.06985" y1="1.88595" x2="0.04445" y2="1.89865" layer="21"/>
-<rectangle x1="-0.06985" y1="1.89865" x2="0.04445" y2="1.91135" layer="21"/>
-<rectangle x1="-0.06985" y1="1.91135" x2="0.04445" y2="1.92405" layer="21"/>
-<rectangle x1="-0.06985" y1="1.92405" x2="0.04445" y2="1.93675" layer="21"/>
-<rectangle x1="-0.06985" y1="1.93675" x2="0.04445" y2="1.94945" layer="21"/>
-<rectangle x1="-0.06985" y1="1.94945" x2="0.04445" y2="1.96215" layer="21"/>
-<rectangle x1="-0.06985" y1="1.96215" x2="0.04445" y2="1.97485" layer="21"/>
-<rectangle x1="-0.06985" y1="1.97485" x2="0.04445" y2="1.98755" layer="21"/>
-<rectangle x1="-0.06985" y1="1.98755" x2="0.04445" y2="2.00025" layer="21"/>
-<rectangle x1="-0.08255" y1="2.00025" x2="0.05715" y2="2.01295" layer="21"/>
-<rectangle x1="-0.08255" y1="2.01295" x2="0.05715" y2="2.02565" layer="21"/>
-<rectangle x1="-0.09525" y1="2.02565" x2="0.06985" y2="2.03835" layer="21"/>
-<rectangle x1="-0.09525" y1="2.03835" x2="0.06985" y2="2.05105" layer="21"/>
-<rectangle x1="-0.10795" y1="2.05105" x2="0.08255" y2="2.06375" layer="21"/>
-<rectangle x1="-0.10795" y1="2.06375" x2="0.08255" y2="2.07645" layer="21"/>
-<rectangle x1="-0.12065" y1="2.07645" x2="0.09525" y2="2.08915" layer="21"/>
-<rectangle x1="-0.12065" y1="2.08915" x2="0.09525" y2="2.10185" layer="21"/>
-<rectangle x1="-0.13335" y1="2.10185" x2="0.10795" y2="2.11455" layer="21"/>
-<rectangle x1="-0.13335" y1="2.11455" x2="-0.01905" y2="2.12725" layer="21"/>
-<rectangle x1="0.00635" y1="2.11455" x2="0.10795" y2="2.12725" layer="21"/>
-<rectangle x1="-0.14605" y1="2.12725" x2="-0.01905" y2="2.13995" layer="21"/>
-<rectangle x1="0.00635" y1="2.12725" x2="0.12065" y2="2.13995" layer="21"/>
-<rectangle x1="-0.14605" y1="2.13995" x2="-0.03175" y2="2.15265" layer="21"/>
-<rectangle x1="0.00635" y1="2.13995" x2="0.12065" y2="2.15265" layer="21"/>
-<rectangle x1="-0.15875" y1="2.15265" x2="-0.03175" y2="2.16535" layer="21"/>
-<rectangle x1="0.01905" y1="2.15265" x2="0.13335" y2="2.16535" layer="21"/>
-<rectangle x1="-0.15875" y1="2.16535" x2="-0.03175" y2="2.17805" layer="21"/>
-<rectangle x1="0.01905" y1="2.16535" x2="0.13335" y2="2.17805" layer="21"/>
-<rectangle x1="-0.17145" y1="2.17805" x2="-0.04445" y2="2.19075" layer="21"/>
-<rectangle x1="0.03175" y1="2.17805" x2="0.14605" y2="2.19075" layer="21"/>
-<rectangle x1="-0.17145" y1="2.19075" x2="-0.04445" y2="2.20345" layer="21"/>
-<rectangle x1="0.03175" y1="2.19075" x2="0.14605" y2="2.20345" layer="21"/>
-<rectangle x1="-0.18415" y1="2.20345" x2="-0.05715" y2="2.21615" layer="21"/>
-<rectangle x1="0.04445" y1="2.20345" x2="0.15875" y2="2.21615" layer="21"/>
-<rectangle x1="-0.18415" y1="2.21615" x2="-0.05715" y2="2.22885" layer="21"/>
-<rectangle x1="0.04445" y1="2.21615" x2="0.15875" y2="2.22885" layer="21"/>
-<rectangle x1="-0.19685" y1="2.22885" x2="-0.06985" y2="2.24155" layer="21"/>
-<rectangle x1="0.04445" y1="2.22885" x2="0.17145" y2="2.24155" layer="21"/>
-<rectangle x1="-0.19685" y1="2.24155" x2="-0.06985" y2="2.25425" layer="21"/>
-<rectangle x1="0.05715" y1="2.24155" x2="0.17145" y2="2.25425" layer="21"/>
-<rectangle x1="-0.20955" y1="2.25425" x2="-0.08255" y2="2.26695" layer="21"/>
-<rectangle x1="0.05715" y1="2.25425" x2="0.18415" y2="2.26695" layer="21"/>
-<rectangle x1="-0.20955" y1="2.26695" x2="-0.08255" y2="2.27965" layer="21"/>
-<rectangle x1="0.06985" y1="2.26695" x2="0.18415" y2="2.27965" layer="21"/>
-<rectangle x1="-0.22225" y1="2.27965" x2="-0.08255" y2="2.29235" layer="21"/>
-<rectangle x1="0.06985" y1="2.27965" x2="0.19685" y2="2.29235" layer="21"/>
-<rectangle x1="-0.22225" y1="2.29235" x2="-0.09525" y2="2.30505" layer="21"/>
-<rectangle x1="0.08255" y1="2.29235" x2="0.19685" y2="2.30505" layer="21"/>
-<rectangle x1="-0.23495" y1="2.30505" x2="-0.09525" y2="2.31775" layer="21"/>
-<rectangle x1="0.08255" y1="2.30505" x2="0.20955" y2="2.31775" layer="21"/>
-<rectangle x1="-0.23495" y1="2.31775" x2="-0.10795" y2="2.33045" layer="21"/>
-<rectangle x1="0.08255" y1="2.31775" x2="0.20955" y2="2.33045" layer="21"/>
-<rectangle x1="-0.23495" y1="2.33045" x2="-0.10795" y2="2.34315" layer="21"/>
-<rectangle x1="0.09525" y1="2.33045" x2="0.22225" y2="2.34315" layer="21"/>
-<rectangle x1="-0.22225" y1="2.34315" x2="-0.17145" y2="2.35585" layer="21"/>
-<rectangle x1="-0.15875" y1="2.34315" x2="-0.14605" y2="2.35585" layer="21"/>
-<rectangle x1="-0.13335" y1="2.34315" x2="-0.12065" y2="2.35585" layer="21"/>
-<rectangle x1="0.12065" y1="2.34315" x2="0.18415" y2="2.35585" layer="21"/>
-<rectangle x1="0.19685" y1="2.34315" x2="0.20955" y2="2.35585" layer="21"/>
+<rectangle x1="-0.05715" y1="-2.41935" x2="0.04445" y2="-2.40665" layer="21"/>
+<rectangle x1="-0.06985" y1="-2.40665" x2="0.04445" y2="-2.39395" layer="21"/>
+<rectangle x1="-0.06985" y1="-2.39395" x2="0.04445" y2="-2.38125" layer="21"/>
+<rectangle x1="-0.06985" y1="-2.38125" x2="0.04445" y2="-2.36855" layer="21"/>
+<rectangle x1="-0.06985" y1="-2.36855" x2="0.04445" y2="-2.35585" layer="21"/>
+<rectangle x1="-0.06985" y1="-2.35585" x2="0.04445" y2="-2.34315" layer="21"/>
+<rectangle x1="-0.06985" y1="-2.34315" x2="0.04445" y2="-2.33045" layer="21"/>
+<rectangle x1="-0.06985" y1="-2.33045" x2="0.04445" y2="-2.31775" layer="21"/>
+<rectangle x1="-0.06985" y1="-2.31775" x2="0.04445" y2="-2.30505" layer="21"/>
+<rectangle x1="-0.06985" y1="-2.30505" x2="0.04445" y2="-2.29235" layer="21"/>
+<rectangle x1="-0.06985" y1="-2.29235" x2="0.04445" y2="-2.27965" layer="21"/>
+<rectangle x1="-0.06985" y1="-2.27965" x2="0.04445" y2="-2.26695" layer="21"/>
+<rectangle x1="-0.06985" y1="-2.26695" x2="0.04445" y2="-2.25425" layer="21"/>
+<rectangle x1="-0.06985" y1="-2.25425" x2="0.04445" y2="-2.24155" layer="21"/>
+<rectangle x1="-0.06985" y1="-2.24155" x2="0.04445" y2="-2.22885" layer="21"/>
+<rectangle x1="-0.06985" y1="-2.22885" x2="0.04445" y2="-2.21615" layer="21"/>
+<rectangle x1="-0.06985" y1="-2.21615" x2="0.04445" y2="-2.20345" layer="21"/>
+<rectangle x1="-0.06985" y1="-2.20345" x2="0.04445" y2="-2.19075" layer="21"/>
+<rectangle x1="-0.08255" y1="-2.19075" x2="0.05715" y2="-2.17805" layer="21"/>
+<rectangle x1="-0.08255" y1="-2.17805" x2="0.05715" y2="-2.16535" layer="21"/>
+<rectangle x1="-0.09525" y1="-2.16535" x2="0.06985" y2="-2.15265" layer="21"/>
+<rectangle x1="-0.09525" y1="-2.15265" x2="0.06985" y2="-2.13995" layer="21"/>
+<rectangle x1="-0.10795" y1="-2.13995" x2="0.08255" y2="-2.12725" layer="21"/>
+<rectangle x1="-0.10795" y1="-2.12725" x2="0.08255" y2="-2.11455" layer="21"/>
+<rectangle x1="-0.12065" y1="-2.11455" x2="0.09525" y2="-2.10185" layer="21"/>
+<rectangle x1="-0.12065" y1="-2.10185" x2="0.09525" y2="-2.08915" layer="21"/>
+<rectangle x1="-0.13335" y1="-2.08915" x2="0.10795" y2="-2.07645" layer="21"/>
+<rectangle x1="-0.13335" y1="-2.07645" x2="-0.01905" y2="-2.06375" layer="21"/>
+<rectangle x1="0.00635" y1="-2.07645" x2="0.10795" y2="-2.06375" layer="21"/>
+<rectangle x1="-0.14605" y1="-2.06375" x2="-0.01905" y2="-2.05105" layer="21"/>
+<rectangle x1="0.00635" y1="-2.06375" x2="0.12065" y2="-2.05105" layer="21"/>
+<rectangle x1="-0.14605" y1="-2.05105" x2="-0.03175" y2="-2.03835" layer="21"/>
+<rectangle x1="0.00635" y1="-2.05105" x2="0.12065" y2="-2.03835" layer="21"/>
+<rectangle x1="-0.15875" y1="-2.03835" x2="-0.03175" y2="-2.02565" layer="21"/>
+<rectangle x1="0.01905" y1="-2.03835" x2="0.13335" y2="-2.02565" layer="21"/>
+<rectangle x1="-0.15875" y1="-2.02565" x2="-0.03175" y2="-2.01295" layer="21"/>
+<rectangle x1="0.01905" y1="-2.02565" x2="0.13335" y2="-2.01295" layer="21"/>
+<rectangle x1="-0.17145" y1="-2.01295" x2="-0.04445" y2="-2.00025" layer="21"/>
+<rectangle x1="0.03175" y1="-2.01295" x2="0.14605" y2="-2.00025" layer="21"/>
+<rectangle x1="-0.17145" y1="-2.00025" x2="-0.04445" y2="-1.98755" layer="21"/>
+<rectangle x1="0.03175" y1="-2.00025" x2="0.14605" y2="-1.98755" layer="21"/>
+<rectangle x1="-0.18415" y1="-1.98755" x2="-0.05715" y2="-1.97485" layer="21"/>
+<rectangle x1="0.04445" y1="-1.98755" x2="0.15875" y2="-1.97485" layer="21"/>
+<rectangle x1="-0.18415" y1="-1.97485" x2="-0.05715" y2="-1.96215" layer="21"/>
+<rectangle x1="0.04445" y1="-1.97485" x2="0.15875" y2="-1.96215" layer="21"/>
+<rectangle x1="-0.19685" y1="-1.96215" x2="-0.06985" y2="-1.94945" layer="21"/>
+<rectangle x1="0.04445" y1="-1.96215" x2="0.17145" y2="-1.94945" layer="21"/>
+<rectangle x1="-0.19685" y1="-1.94945" x2="-0.06985" y2="-1.93675" layer="21"/>
+<rectangle x1="0.05715" y1="-1.94945" x2="0.17145" y2="-1.93675" layer="21"/>
+<rectangle x1="-0.20955" y1="-1.93675" x2="-0.08255" y2="-1.92405" layer="21"/>
+<rectangle x1="0.05715" y1="-1.93675" x2="0.18415" y2="-1.92405" layer="21"/>
+<rectangle x1="-0.20955" y1="-1.92405" x2="-0.08255" y2="-1.91135" layer="21"/>
+<rectangle x1="0.06985" y1="-1.92405" x2="0.18415" y2="-1.91135" layer="21"/>
+<rectangle x1="-0.22225" y1="-1.91135" x2="-0.08255" y2="-1.89865" layer="21"/>
+<rectangle x1="0.06985" y1="-1.91135" x2="0.19685" y2="-1.89865" layer="21"/>
+<rectangle x1="-0.22225" y1="-1.89865" x2="-0.09525" y2="-1.88595" layer="21"/>
+<rectangle x1="0.08255" y1="-1.89865" x2="0.19685" y2="-1.88595" layer="21"/>
+<rectangle x1="-0.23495" y1="-1.88595" x2="-0.09525" y2="-1.87325" layer="21"/>
+<rectangle x1="0.08255" y1="-1.88595" x2="0.20955" y2="-1.87325" layer="21"/>
+<rectangle x1="-0.23495" y1="-1.87325" x2="-0.10795" y2="-1.86055" layer="21"/>
+<rectangle x1="0.08255" y1="-1.87325" x2="0.20955" y2="-1.86055" layer="21"/>
+<rectangle x1="-0.23495" y1="-1.86055" x2="-0.10795" y2="-1.84785" layer="21"/>
+<rectangle x1="0.09525" y1="-1.86055" x2="0.22225" y2="-1.84785" layer="21"/>
+<rectangle x1="-0.22225" y1="-1.84785" x2="-0.17145" y2="-1.83515" layer="21"/>
+<rectangle x1="-0.15875" y1="-1.84785" x2="-0.14605" y2="-1.83515" layer="21"/>
+<rectangle x1="-0.13335" y1="-1.84785" x2="-0.12065" y2="-1.83515" layer="21"/>
+<rectangle x1="0.12065" y1="-1.84785" x2="0.18415" y2="-1.83515" layer="21"/>
+<rectangle x1="0.19685" y1="-1.84785" x2="0.20955" y2="-1.83515" layer="21"/>
 </package>
 </packages>
 <packages3d>
@@ -12417,7 +12417,7 @@ between Jacdac connectors and mounting holes.</text>
 <packageinstance name="JD-EDGE-INNIE"/>
 </packageinstances>
 </package3d>
-<package3d name="MILADOR_ICON_MAGNETOMETER" urn="urn:adsk.eagle:package:36505533/1" type="empty" library_version="137">
+<package3d name="MILADOR_ICON_MAGNETOMETER" urn="urn:adsk.eagle:package:36505533/2" type="empty" library_version="139">
 <packageinstances>
 <packageinstance name="MILADOR_ICON_MAGNETOMETER"/>
 </packageinstances>
@@ -12803,14 +12803,14 @@ between Jacdac connectors and mounting holes.</text>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MILADOR-ICON-" urn="urn:adsk.eagle:component:36505534/1" library_version="137">
+<deviceset name="MILADOR-ICON-" urn="urn:adsk.eagle:component:36505534/2" library_version="139">
 <gates>
 <gate name="G$1" symbol="MILADOR_ICON" x="0" y="0"/>
 </gates>
 <devices>
 <device name="MAG" package="MILADOR_ICON_MAGNETOMETER">
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:36505533/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:36505533/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -27955,7 +27955,7 @@ DIN A4, landscape with location and doc. field</description>
 <part name="LABEL_LOGO2" library="MMC Eagle" library_urn="urn:adsk.eagle:library:13126479" deviceset="MMC_LOGO-" device="XSM" package3d_urn="urn:adsk.eagle:package:36433256/2"/>
 <part name="FRAME1" library="frames" library_urn="urn:adsk.eagle:library:229" deviceset="A4L-LOC" device=""/>
 <part name="IC1" library="milador_SMD" library_urn="urn:adsk.eagle:library:27847482" deviceset="TLV493D" device="" package3d_urn="urn:adsk.eagle:package:30857841/4"/>
-<part name="LABEL_ICON" library="milador" library_urn="urn:adsk.eagle:library:12595918" deviceset="MILADOR-ICON-" device="MAG" package3d_urn="urn:adsk.eagle:package:36505533/1"/>
+<part name="LABEL_ICON" library="milador" library_urn="urn:adsk.eagle:library:12595918" deviceset="MILADOR-ICON-" device="MAG" package3d_urn="urn:adsk.eagle:package:36505533/2"/>
 </parts>
 <sheets>
 <sheet>
