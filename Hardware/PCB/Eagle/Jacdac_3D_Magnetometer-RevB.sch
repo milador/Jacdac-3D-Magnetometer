@@ -28530,10 +28530,14 @@ DIN A4, landscape with location and doc. field</description>
 </sheet>
 </sheets>
 <errors>
+<approved hash="102,1,-99.06,93.98,VOUT,VCC,,,,"/>
+<approved hash="102,1,-30.48,83.82,1,GND,,,,"/>
 <approved hash="102,1,-30.48,76.2,3,JD5V,,,,"/>
 <approved hash="102,1,-30.48,78.74,4,JD5V,,,,"/>
+<approved hash="102,1,7.62,83.82,1,GND,,,,"/>
 <approved hash="102,1,7.62,76.2,3,JD5V,,,,"/>
 <approved hash="102,1,7.62,78.74,4,JD5V,,,,"/>
+<approved hash="104,1,53.34,40.64,IC1,VDD,VCC,,,"/>
 </errors>
 </schematic>
 </drawing>
